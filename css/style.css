@@ -1,8 +1,8 @@
 :root {
     --primaryText: #ffffff;
     --secondaryText: #fea24d;
-    --primary: #52c9de;
-    --secondary: rgba(255, 1, 94, .60); 
+    --primary: #8feeff;
+    --secondary: #fea24d; 
     --buttonHover: #d0e8ec;
     --smallButtonHover: rgba(0, 0, 0, .25);
 }
